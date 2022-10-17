@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\3.35\3.35\bin\Debug\net6.0\3.35.exe
+C:\Users\User\source\repos\3.35\3.35\bin\Debug\net6.0\3.35.deps.json
+C:\Users\User\source\repos\3.35\3.35\bin\Debug\net6.0\3.35.runtimeconfig.json
+C:\Users\User\source\repos\3.35\3.35\bin\Debug\net6.0\3.35.dll
+C:\Users\User\source\repos\3.35\3.35\bin\Debug\net6.0\3.35.pdb
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.AssemblyInfo.cs
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.dll
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\refint\3.35.dll
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.pdb
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\3.35.genruntimeconfig.cache
+C:\Users\User\source\repos\3.35\3.35\obj\Debug\net6.0\ref\3.35.dll
